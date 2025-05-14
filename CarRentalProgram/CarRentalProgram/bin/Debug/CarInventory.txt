@@ -1,0 +1,11 @@
+4782, Mercedes-Benz, C-Class, 2022, 12000, 59.99, "Luxury sedan with elegant design", "Lot B", True, "Sedan", "https://upload.wikimedia.org/wikipedia/commons/4/45/Mercedes-Benz_C-Class_Coupe_2022.jpg"
+6531, BMW, X5, 2021, 99999, 75.00, "Luxury SUV with sporty handling", "Lot C", False, "SUV", "https://upload.wikimedia.org/wikipedia/commons/0/0a/BMW_X5_M_2021.jpg"
+2890, Audi, A6, 2022, 8000, 65.00, "Sophisticated sedan with advanced tech", "Lot D", True, "Sedan", "https://upload.wikimedia.org/wikipedia/commons/2/20/Audi_A6_C8_2022.jpg"
+7324, Porsche, Macan, 2021, 12345, 85.00, "Compact luxury SUV with dynamic performance", "Lot E", True, "SUV", "https://upload.wikimedia.org/wikipedia/commons/2/2c/2021_Porsche_Macan.jpg"
+1345, Lexus, ES, 2022, 5000, 55.00, "Elegant sedan with a smooth ride", "Lot F", True, "Sedan", "https://upload.wikimedia.org/wikipedia/commons/c/c0/2022_Lexus_ES.jpg"
+9810, Jaguar, F-PACE, 2021, 12000, 70.00, "Performance SUV with a sporty edge", "Lot G", False, "SUV", "https://upload.wikimedia.org/wikipedia/commons/a/a7/Jaguar_F-Pace_2021.jpg"
+2653, Tesla, Model S, 2022, 3000, 99.99, "High-performance electric sedan", "Lot H", False, "Sedan", "https://upload.wikimedia.org/wikipedia/commons/b/b5/Tesla_Model_S_2021.jpg"
+3478, Maserati, Levante, 2021, 9000, 92.00, "Luxury SUV with Italian flair", "Lot I", True, "SUV", "https://upload.wikimedia.org/wikipedia/commons/1/15/Maserati_Levante_2021.jpg"
+8421, Aston Martin, Vantage, 2022, 5000, 120.00, "Iconic sports car with stunning looks", "Lot J", True, "Sports", "https://upload.wikimedia.org/wikipedia/commons/4/48/Aston_Martin_Vantage_2021.jpg"
+7630, Ferrari, Portofino, 2022, 2000, 250.00, "Convertible sports car with breathtaking performance", "Lot K", True, "Sports", "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ferrari_Portofino_2021.jpg"
+9932, Honda, Civic, 2024, 2532, 34.99, "Classic sedan for city driving", "Lot J", True, "Sedan", https://upload.wikimedia.org/wikipedia/commons/3/3f/Honda_Civic_Type-R_%28MSP17%29.jpg
